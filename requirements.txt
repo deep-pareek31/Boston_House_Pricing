@@ -3,3 +3,4 @@ scikit-learn
 pandas
 numpy
 matplotlib
+gunicorn ## it is a wsgi server used to handle multiple request at a time by running multiple instances.
